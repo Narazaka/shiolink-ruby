@@ -1,0 +1,4 @@
+[submodule "doc"]
+	path = doc
+	url = https://github.com/Narazaka/shiolink-ruby.git
+	branch = gh-pages
