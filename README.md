@@ -4,7 +4,8 @@
 [![Gem](https://img.shields.io/gem/dtv/shiolink.svg)](https://rubygems.org/gems/shiolink)
 [![Gemnasium](https://gemnasium.com/Narazaka/shiolink-ruby.svg)](https://gemnasium.com/Narazaka/shiolink-ruby)
 [![Inch CI](http://inch-ci.org/github/Narazaka/shiolink-ruby.svg)](http://inch-ci.org/github/Narazaka/shiolink-ruby)
-[![Build Status](https://travis-ci.org/Narazaka/shiolink-ruby.svg)](https://travis-ci.org/Narazaka/shiolink-ruby)
+[![Travis Build Status](https://travis-ci.org/Narazaka/shiolink-ruby.svg)](https://travis-ci.org/Narazaka/shiolink-ruby)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/Narazaka/shiolink-ruby?svg=true)](https://ci.appveyor.com/project/Narazaka/shiolink-ruby)
 [![codecov.io](https://codecov.io/github/Narazaka/shiolink-ruby/coverage.svg?branch=master)](https://codecov.io/github/Narazaka/shiolink-ruby?branch=master)
 [![Code Climate](https://codeclimate.com/github/Narazaka/shiolink-ruby/badges/gpa.svg)](https://codeclimate.com/github/Narazaka/shiolink-ruby)
 
