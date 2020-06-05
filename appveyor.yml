@@ -3,6 +3,7 @@ branches:
   except:
     - gh-pages
 install:
+  - "dir \\"
   - set RUBY_HOME=C:\Ruby%ruby_version%
   - set PATH=%RUBY_HOME%\bin;%PATH%
   - ruby --version
@@ -16,5 +17,5 @@ build: off
 deploy: off
 environment:
   matrix:
-    - ruby_version: 22
-    - ruby_version: 22-x64
+    - ruby_version: 26
+    - ruby_version: 26-x64
